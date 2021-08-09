@@ -39,7 +39,7 @@ class MovieReview extends Component {
                               <p><span className="headings">Headline:</span> {review.headline}</p>
                               <p><span className="headings">Overview:</span> {review.summary_short}</p>
                               <p><span className="headings">Critics Pick:</span> {review.critics_pick}</p>
-                              <p><span className="headings">Byline:</span> {review.byline}</p>
+                              <p><span className="headings">Byline :</span> {review.byline}</p>
                           </div>
                     </div>
                 )
